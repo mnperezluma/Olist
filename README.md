@@ -1,7 +1,6 @@
 Link para uso de proceso de automatización: https://www.youtube.com/watch?v=1BQbX2-VzH4
 
-Link Repositorio GitHub: https://github.com/AMarcosD/ProyectoGrupalH
-
+Link Repositorio GitHub: https://github.com/Makro-Analyse/Olist
 Normativas de normalización, transformación y limpieza de datos: https://docs.google.com/document/d/1SZw8MirNojnbmq94IfrmjvCmBmS1rbBb0XhPsTbmlks/edit?usp=sharing
 
 Diccionario de datos:
