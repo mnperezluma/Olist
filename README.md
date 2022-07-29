@@ -12,7 +12,7 @@ Perfiles colaboradores del proyecto:
 https://github.com/Leandrofranchina \
 https://github.com/jcruzalmiron \
 https://github.com/mnperezluma \ 
-https://github.com/AMarcosD
+ https://github.com/AMarcosD
 
 Link Prezi SEMANA 1: https://prezi.com/view/1rK7luCvqmjZNF7eKAsC/ \
 Link Prezi SEMANA 2: https://prezi.com/view/JlN7Bs0Wuft95xpKQjds/ \
