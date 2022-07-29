@@ -11,7 +11,7 @@ Diagrama Entidad Relacion: https://drive.google.com/file/d/1a9KOg8UjuBp3AQ5jsg6K
 Perfiles colaboradores del proyecto: \
 https://github.com/Leandrofranchina \
 https://github.com/jcruzalmiron \
-https://github.com/mnperezluma \ 
+https://github.com/mnperezluma \
 https://github.com/AMarcosD
 
 Link Prezi SEMANA 1: https://prezi.com/view/1rK7luCvqmjZNF7eKAsC/ \
