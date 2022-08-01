@@ -8,10 +8,14 @@ https://docs.google.com/document/d/1uDTvTLVqh5SJ1CeoxzF897yXdmj_6a2R_17ugI-f4z4/
 
 Diagrama Entidad Relacion: https://drive.google.com/file/d/1a9KOg8UjuBp3AQ5jsg6KMWhFyb6X6G0g/view?usp=sharing
 
-Perfiles colaboradores del proyecto:
-https://github.com/Leandrofranchina
-https://github.com/jcruzalmiron
-https://github.com/mnperezluma
+Link Dashboard Power BI:
+https://app.powerbi.com/groups/me/reports/2650e47c-7ef8-46cc-96f5-c7ca2b126035/ReportSection26ebed5272dfbfab6dd6
+
+Perfiles colaboradores del proyecto: \
+https://github.com/Leandrofranchina \
+https://github.com/jcruzalmiron \
+https://github.com/mnperezluma \
+https://github.com/AMarcosD
 
 Link Prezi SEMANA 1: https://prezi.com/view/1rK7luCvqmjZNF7eKAsC/ \
 Link Prezi SEMANA 2: https://prezi.com/view/JlN7Bs0Wuft95xpKQjds/ \
